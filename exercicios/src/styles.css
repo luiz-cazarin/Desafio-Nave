@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    font: normal 16pt Arial;
+}
+
+
+
+body {
+    background: linear-gradient(to right, rgb(30, 79, 143), rgb(56, 23, 87));
+}
+
+h1{
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.308), rgba(0, 0, 0, 0));
+    font: normal 20pt Arial;
+    text-align: center;
+    color: white;
+    padding: 35px; 
+}
+
+
+#confirm {
+    background: whitesmoke;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#confirm:hover{
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.507);
+    
+}
+.resp {
+    background: linear-gradient(to right, rgb(30, 79, 143), rgb(56, 23, 87));
+    color: whitesmoke;
+    padding: 20px;
+    width: 700px;
+    margin: auto;
+    border-radius: 7px;
+}
+
+
+
+section {
+    background-color: whitesmoke;
+    margin: auto;
+    height: auto;
+    width: 800px;
+    border-radius: 10px;
+}
+
+div {
+    padding: 30px;
+}
+
+footer {
+    margin-top: 40px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+a {
+    padding: 5px;
+    text-decoration: none;
+    font-style: oblique;
+    color: whitesmoke;
+}
